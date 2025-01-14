@@ -5,9 +5,9 @@
 </div>
 
 
-## Technology Stack
+<!-- ## Technology Stack
 
-<! -- <div style="display:flex; align-items:center; gap:10px;">
+ <div style="display:flex; align-items:center; gap:10px;">
   <img 
   style="height:40px"
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png">
@@ -38,4 +38,4 @@
 
   <video src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif?cid=790b7611iqq1u7na0pzn4nq8hk9t8tk2jqizvh0w7grzpolo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   
-</div> --- !>
+</div> -->
