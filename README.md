@@ -1,41 +1,38 @@
-## Hello There 👋, I'm Wildan Izhar A.
+# Hi there! 👋 I'm Wildan Izhar A
+
+🚀 **Web Developer | Frontend & Backend Enthusiast**  
+💻 Tech Stack: HTML, CSS, Tailwind CSS, JavaScript, Node.js, Next.js, React.js, Prisma, MySQL, MongoDB, Midtrans, Postman, PHP  
+
+## 🔥 About Me
+- 💡 Passionate about building modern web applications
+- 🏗️ Currently working on **WaskerStore (a Top Up Application using a payment gateway (sandbox))**
+- 📖 Learning and exploring new web technologies
+
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Midtrans](https://img.shields.io/badge/Midtrans-0078D4?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wldnz&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldnz&layout=compact&theme=radical)
+
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wildan-izhar-al-haqq-640550319/) 
 
 <div style="widht:100%; display:flex; justify-center:center;">
   <img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif?cid=790b7611iqq1u7na0pzn4nq8hk9t8tk2jqizvh0w7grzpolo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
-
-<!-- ## Technology Stack
-
- <div style="display:flex; align-items:center; gap:10px;">
-  <img 
-  style="height:40px"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png">
-  <img 
-  style="height:40px"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Primary_RebeccaPurple_CSS_Logo_2024.png/180px-Primary_RebeccaPurple_CSS_Logo_2024.png">
-  <img 
-  style="height:40px"
-  src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png">
-  <img 
-  style="height:40px"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/150px-React_Logo_SVG.svg.png">
-  <img 
-  style="height:40px"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/330px-Node.js_logo.svg.png">
-  <img 
-  style="width:100px;height:40px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/330px-Expressjs.png">
-  <img 
-  style="height:40px"
-  src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
-  <img 
-  style="height:40px"
-  src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png">
-  <img 
-  style="height:40px"
-  src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png">
-
-  <video src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif?cid=790b7611iqq1u7na0pzn4nq8hk9t8tk2jqizvh0w7grzpolo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-  
-</div> -->
