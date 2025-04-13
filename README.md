@@ -5,7 +5,7 @@
 
 ## 🔥 About Me
 - 💡 Passionate about building modern web applications
-- 🏗️ Currently working on **WaskerStore (a Top Up Application using a payment gateway (sandbox))**
+- 🏗️ Currently working on [-]
 - 📖 Learning and exploring new web technologies
 
 ## 🛠️ Tech Stack
